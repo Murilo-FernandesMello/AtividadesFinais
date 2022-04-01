@@ -1,0 +1,23 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    border: 3px;
+    border-style: solid;
+    border-color: red;
+}
+
+.linha1 {
+    background-color: grey;
+    color: white;
+}
+
+.row {
+    background-color: grey;
+    color: white;
+}
