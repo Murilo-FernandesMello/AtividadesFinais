@@ -1,0 +1,15 @@
+tr {
+    background-color: yellow;
+    color: blue;
+}
+
+.branco {
+    background-color: white;
+    border: none;
+}
+
+footer {
+    margin-left: 80px;
+    color: blue;
+    font-weight: bold;
+}
